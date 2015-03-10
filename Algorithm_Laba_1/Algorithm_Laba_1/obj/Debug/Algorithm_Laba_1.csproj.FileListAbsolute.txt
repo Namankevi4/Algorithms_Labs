@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\bin\Debug\Algorithm_Laba_1.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\bin\Debug\Algorithm_Laba_1.exe
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\bin\Debug\Algorithm_Laba_1.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\obj\Debug\Algorithm_Laba_1.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\obj\Debug\Algorithm_Laba_1.exe
+C:\Users\Alexandr\Documents\Visual Studio 2012\Projects\Algorithm_Laba_1\Algorithm_Laba_1\obj\Debug\Algorithm_Laba_1.pdb
